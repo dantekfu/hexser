@@ -10,6 +10,4 @@ Notes.
 Initial target is the ATMEGA32U4 chip. Current code
 is in C; it should be portable to other AVR's.
 
-
-
-
+Current interface is SPI.
